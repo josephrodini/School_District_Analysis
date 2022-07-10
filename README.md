@@ -3,25 +3,21 @@
 
 This project constitutes the Module 4 Challenge for the Data Analytics and Visualization Boot Camp.
 
-## Overview of Project
+## Overview of the School District Analysis
 
 ### Purpose
 
-
-
-## Analysis and Challenges
+### Challenges to the Analysis
 
 
 ## Results
 
-###
-
-### 
+### bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data
 
 ### Limitations
 
-Steve might want to consider comparing green data stocks to other fuel sourced stocks in order to see trends across different industries. He might also want more recent stock data to see more recent trends.
 
 ## Summary
 
+### Four Changes to the Analysis
 
