@@ -18,7 +18,7 @@ There was the aforementioned anomaly for the Thomas 9th graders that required an
 ### Differeces in metrics due to Thomas data
 
 - School Summary
-
+First of all, no data was more affected that the data for Thomas High School itself. See [the data with ninth grade included](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/Thomas_Original.PNG) and [the data with ninth grade excluded](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/Thomas_Updated.PNG). The percentages went from under 70% to over 90%. The anomalous data was really dragging the school's performance down.
 
 - District Summary
 
