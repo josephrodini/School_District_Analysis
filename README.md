@@ -23,10 +23,11 @@ First of all, no data was more affected that the data for Thomas High School its
 
 - District Summary
 
-
+The overall district summary hardly changed from the [original analysis](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/DistrictSummary_Original.PNG) to [the updated one](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/DistrictSummary_Updated.PNG), as one high school's ninth graders are just a tiny subset of the overall population.
 
 - Top and bottom performing schools
 
+Thomas High School shot from
 
 
 - Average math by grade
