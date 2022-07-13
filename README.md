@@ -27,33 +27,34 @@ The overall district summary hardly changed from the [original analysis](https:/
 
 - Top and bottom performing schools
 
-Thomas High School shot from
-
+While Thomas High School [was not present in the original top performing schools](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/Top_Original.PNG), it [shot up to second place in the updated analyses](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/Top_Updated.PNG). The bottom performing schools showed no changed between [original](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/Bottom_Original.PNG) and [updated](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/Bottom_Updated.PNG).
 
 - Average math by grade
 
-
+As expected, the only change in the average math passing rate per grade chart from [the original analysis](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/MathbyGrade_Original.PNG) to [the updated one](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/MathbyGrade_Updated.PNG) was the absence of scores from Thomas 9th graders.
 
 - Average reading by grade
 
+This same change was also present in the average reading passing rate per grade charts between [original](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/ReadingbyGrade_Original.PNG) and [updated](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/ReadingbyGrade_Updated.PNG).
 
+- Scores by spending, scores by size, and scores by type
 
-- Scores by spending
-
-
-
-- Scores by size
-
-
-
-- Scores by type
-
+Results for scores by spending, scores by size, and scores by type hardly changed between the two analyses. In fact, when the data is rounded, the figures seem identical for all three measures between the two analyses. See [spending figures original](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/Spending_Original.PNG) and [spending figures updated](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/Spending_Updated.PNG), [size figures original](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/Size_Original.PNG) and [size figures updated](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/Size_Updated.PNG), and [type figures original](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/Type_Original.PNG) and [type figures updated](https://github.com/josephrodini/School_District_Analysis/blob/main/Resources/Type_Updated.PNG).
 
 
 ### Limitations
 
+We do not know if other data in the dataset is suspect like the data for Thomas ninth graders. Further inquiry is warranted.
 
 ## Summary
 
 ### Four Changes to the Analysis
+
+After the reading and math scores for the ninth grade at Thomas High School were replaced with NaNs, we can see a few changes:
+1. The overall pass rate for Thomas High dramatically increased.
+2. Thomas High jumped up to second place in the district passing rankings.
+3. The district summary hardly changed.
+4. There were minute changes to the spending results, size results, and type results.
+
+It was worth rerunning the analyses to see the overall changes.
 
